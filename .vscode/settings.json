@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.sql": "sql",
+        "iostream": "cpp",
+        "new": "cpp",
+        "functional": "cpp",
+        "ostream": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "valarray": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
